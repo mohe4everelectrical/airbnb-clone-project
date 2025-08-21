@@ -5,3 +5,4 @@ airbnb-clone-project.
 “UI Component Patterns”
 “Team Roles”
 “Technology Stack”
+“Database Design”.
